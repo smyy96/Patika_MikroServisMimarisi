@@ -40,5 +40,59 @@
 
 ### SOA (Service Oriented Architecture)
 ```
+  Servislerin ayrı ayrı tasarlanıp, bir yapı oluşturmasını sağlar.
+  Yapılar birbirlerinden bağımsız olarak çalışabilirler. (loose coupling)
+  Birden çok sistemin yer aldığı yapılarda kullanılır.
+  Kendi içerisinde bir çok bileşeni vardır.
+    ○ Policies, Contractsi Services ve çok daha fazlası
+  Dağıtık yazılım sistemlerinin kalitelerini arttırmayı hedefler.
+    ○ Tekrar kullanılabilirlik
+    ○ Uyumluluk
+    ○ Bakım Yeteneği
+    
   
+   SOA Avantajları
+  * Servisler tekrar kullanılabilir,
+  * Servislerin bakım ve onarım süreçleri kolaydır,
+  * Güvenirlilik/Dayanıklılık,
+  * Yatay ve dikey ölçeklendirme mümkündür,
+  * Platform bağımsızdır,
+  * Üretkenlik arttar
+  
+  SOA Dezavantajları
+  * Overload,
+  * Yüksek bant genişliği,
+  * Yüksek maliyet
+ 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
