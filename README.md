@@ -66,26 +66,33 @@
  
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Mikroservisler Mimarisi (Service Oriented Architecture)
+```
+  * SOA'nın bir yorumudur.
+  * Her bir servisin kendine ait bir dünyada çalışmasını hedefler. 
+      Yani her bir servis kendine ait sunucuda çalışacak.
+  * Her bir servisin kendine ait veritabanı vardır.
+  * Sadece bir küçük işi çok iyi yapmalıdır. 
+  * Kendi aralarında ise Api Gateway üzerinden iletişime geçerler.
+  * Stateless yapılardır.
+  * Kolay Ölçeklenebilirler. (Yatay) 
+  
+  
+  Mikroservis Avantajları
+  * Çok dilli mimari,
+  * Kolay ölçeklendirme,
+  * Daha iyi bir takım yönetimi,
+  * Yenilik yapmak daha kolay,
+  * Mikroservislerin kendine ait veritabanı vardır,
+  * Implemente edilirken diğer servisler etkilenmez.
+  
+  Mikroservis Dezavantajları
+  * Implementasyon kolay değildir,
+  * Debug kolay değildir,
+  * Hata yönetimi kolay değildir.
+  
+```
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQHm9xJ4AaXGDQ/article-inline_image-shrink_1000_1488/0/1603974909794?e=1666828800&v=beta&t=5oyWvacKJO6jdJax583Q76zYHSP0CJ5rqnCgUfYigPY" width="425" height="235">
 
 
 
